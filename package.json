@@ -25,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/gabrielgrijalva/crypto-exchanges-utils/issues"
   },
+  "engines": {
+    "npm": "6.10.0",
+    "node": "v10.15.1"
+  },
   "homepage": "https://github.com/gabrielgrijalva/crypto-exchanges-utils#readme"
 }
