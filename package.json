@@ -1,0 +1,29 @@
+{
+  "name": "@gabrielgrijalva/crypto-exchanges-utils",
+  "version": "1.0.0",
+  "description": "Common and useful utilities for cryptocurrency exchanges.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielgrijalva/crypto-exchanges-utils.git"
+  },
+  "keywords": [
+    "utilities",
+    "API",
+    "cryptocurrency",
+    "trading",
+    "REST",
+    "WebSocket",
+    "WS",
+    "exchanges"
+  ],
+  "author": "Gabriel Grijalva Flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielgrijalva/crypto-exchanges-utils/issues"
+  },
+  "homepage": "https://github.com/gabrielgrijalva/crypto-exchanges-utils#readme"
+}
