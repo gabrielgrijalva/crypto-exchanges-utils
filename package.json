@@ -29,5 +29,10 @@
     "npm": "6.10.0",
     "node": "v10.15.1"
   },
-  "homepage": "https://github.com/gabrielgrijalva/crypto-exchanges-utils#readme"
+  "homepage": "https://github.com/gabrielgrijalva/crypto-exchanges-utils#readme",
+  "devDependencies": {
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-plugin-import": "^2.18.0"
+  }
 }
