@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.2.0] - 2019-07-30
+### Changed
+- Changed disconnect function from BITFLYER order book interface. Now if disconnected manually, order book will not try to reconnect.
+- Changed disconnect function from BITMEX order book interface. Now if disconnected manually, order book will not try to reconnect.
+- Changed disconnect function from HUOBI DM order book interface. Now if disconnected manually, order book will not try to reconnect.
+
 ## [1.1.0] - 2019-07-24
 ### Added
 - Create BITFLYER order-book interface for connecting to realtime market data.
