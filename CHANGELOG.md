@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.2.3] - 2019-07-30
+### Changed
+- Included changes from previous error corrections.
+
 ## [1.2.2] - 2019-07-30
 ### Changed
 - Corrected error that broke bitmex order book implementation.
