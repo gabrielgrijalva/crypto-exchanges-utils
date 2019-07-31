@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.2.1] - 2019-07-30
+### Changed
+- Changed disconnect functionality in order to preserve orders in the order book before disconnecting. Implemented in all exchanges interfaces.
+
 ## [1.2.0] - 2019-07-30
 ### Changed
 - Changed disconnect function from BITFLYER order book interface. Now if disconnected manually, order book will not try to reconnect.
