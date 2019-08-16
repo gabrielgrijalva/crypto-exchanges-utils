@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.2.5] - 2019-08-15
+### Changed
+- Updated project versions dependencies.
+
 ## [1.2.4] - 2019-08-15
 ### Changed
 - Updated project versions dependencies.
