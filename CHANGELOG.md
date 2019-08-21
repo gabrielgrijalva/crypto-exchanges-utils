@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.3.0] - 2019-08-21
+### Added 
+- Added 'reconnection' function to bitmex order book client.
+
+### Changed
+- Added to bitmex order book client an error handler when order to update does not exist.
+
 ## [1.2.5] - 2019-08-15
 ### Changed
 - Updated project versions dependencies.
