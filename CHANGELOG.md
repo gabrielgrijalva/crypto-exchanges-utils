@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.4.1] - 2019-10-09
+### Added
+- Added order book frozen error hanlder to huobi dm order book implementation.
+
 ## [1.4.0] - 2019-08-21
 ### Added 
 - Added OKEX order book interface for connecting to realtime market data.
