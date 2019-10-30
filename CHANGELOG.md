@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.4.2] - 2019-10-30
+### Changed
+- Corrected error of not cleaning internal interval when disconnecting huobi dm order book.
+
 ## [1.4.1] - 2019-10-09
 ### Added
 - Added order book frozen error hanlder to huobi dm order book implementation.
