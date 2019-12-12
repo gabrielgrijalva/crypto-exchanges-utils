@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.5.0] - 2019-12-12
+### Changed
+- Corrected error when reconnecting order books after closed connection.
+
 ## [1.4.2] - 2019-10-30
 ### Changed
 - Corrected error of not cleaning internal interval when disconnecting huobi dm order book.
