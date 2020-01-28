@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.6.0] - 2020-01-27
+### Changed
+- Changed project version dependencies.
+
 ## [1.5.0] - 2019-12-12
 ### Changed
 - Corrected error when reconnecting order books after closed connection.
