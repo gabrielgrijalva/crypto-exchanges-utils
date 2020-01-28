@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.7.0] - 2020-01-27
+### Changed
+- Changed project version dependencies.
+
 ## [1.6.0] - 2020-01-27
 ### Changed
 - Changed project version dependencies.
