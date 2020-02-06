@@ -1,3 +1,4 @@
+exports.BitfinexOrderBook = require('./lib/src/bitfinex/order-book');
 exports.BitmexOrderBook = require('./lib/src/bitmex/order-book');
 exports.BitstampOrderBook = require('./lib/src/bitstamp/order-book');
 exports.CoinbaseOrderBook = require('./lib/src/coinbase/order-book');
