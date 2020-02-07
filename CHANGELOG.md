@@ -1,6 +1,14 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.0].0] - 2020-02-06
+### Added
+- Added binance order book.
+- Added bitfinex order book.
+- Added bitstamp order book.
+- Added coinbase order book.
+- Added kraken order book.
+
 ## [1.7.0] - 2020-01-27
 ### Changed
 - Changed project version dependencies.
