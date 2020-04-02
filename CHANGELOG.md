@@ -1,7 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [2.0].0] - 2020-02-06
+## [2.1.0] - 2020-04-02
+### Changed
+- Corrected error when handling close connection for bitflyer order book.
+
+## [2.0.0] - 2020-02-06
 ### Added
 - Added binance order book.
 - Added bitfinex order book.
