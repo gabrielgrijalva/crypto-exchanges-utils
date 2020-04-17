@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.2.0] - 2020-04-17
+### Changed
+- Implemented huobi dm swap order book.
+
 ## [2.1.0] - 2020-04-02
 ### Changed
 - Corrected error when handling close connection for bitflyer order book.
