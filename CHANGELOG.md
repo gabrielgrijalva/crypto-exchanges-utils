@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.3.0] - 2020-04-24
+### Changed
+- Implemented mechanism to detect when huobi dm order book has not been 
+  updated for an amount of time.
+
 ## [2.2.0] - 2020-04-17
 ### Changed
 - Implemented huobi dm swap order book.
