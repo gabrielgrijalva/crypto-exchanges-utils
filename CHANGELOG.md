@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.3.1] - 2020-04-27
+### Changed
+- Changed implementation for desconnecting huobi dm order book.
+
 ## [2.3.0] - 2020-04-24
 ### Changed
 - Implemented mechanism to detect when huobi dm order book has not been 
