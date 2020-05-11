@@ -1,6 +1,6 @@
 {
   "name": "@gabrielgrijalva/crypto-exchanges-utils",
-  "version": "2.3.3",
+  "version": "2.3.4",
   "description": "Common and useful utilities for cryptocurrency exchanges.",
   "main": "index.js",
   "scripts": {
