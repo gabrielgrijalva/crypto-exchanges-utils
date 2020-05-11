@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.3.2] - 2020-05-08
+### Changed
+- Corrected error in bitflyer order book implementation.
+
 ## [2.3.1] - 2020-04-27
 ### Changed
 - Changed implementation for desconnecting huobi dm order book.
