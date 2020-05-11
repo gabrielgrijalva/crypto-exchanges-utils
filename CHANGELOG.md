@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file.
 
 ## [2.3.3] - 2020-05-11
 ### Changed
+- Corrected error in bitflyer order book.
+
+## [2.3.3] - 2020-05-11
+### Changed
 - Implemented last update timestamp checker in bitmex order book.
 - Implemented last update timestamp checker in bitflyer order book.
 
