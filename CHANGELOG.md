@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.4.0] - 2020-05-18
+### Added
+- Created binance futures order book.
+
 ## [2.3.3] - 2020-05-11
 ### Changed
 - Corrected error in bitflyer order book.
