@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.5.0] - 2020-05-21
+### Added
+- Created huobi dm swap candles cron database populator.
+- created binance futures candles cron database populator.
+
 ## [2.4.0] - 2020-05-18
 ### Added
 - Created binance futures order book.
