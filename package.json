@@ -1,6 +1,6 @@
 {
   "name": "@gabrielgrijalva/crypto-exchanges-utils",
-  "version": "2.4.0",
+  "version": "2.5.0",
   "description": "Common and useful utilities for cryptocurrency exchanges.",
   "main": "index.js",
   "scripts": {
@@ -36,6 +36,9 @@
     "eslint-plugin-import": "^2.18.0"
   },
   "dependencies": {
-    "@gabrielgrijalva/crypto-exchanges": "^3.6.0"
+    "@gabrielgrijalva/crypto-exchanges": "^3.6.0",
+    "cron": "^1.8.2",
+    "moment": "^2.26.0",
+    "mysql": "^2.18.1"
   }
 }
