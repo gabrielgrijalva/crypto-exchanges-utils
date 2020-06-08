@@ -11,4 +11,5 @@ exports.HuobiDMSwapCanPopApiDb = require('./lib/src/huobi-dm-swap/candle-populat
 exports.HuobiDMSwapCanPopApiDbCron = require('./lib/src/huobi-dm-swap/candle-populator-api-db-cron');
 exports.KrakenOrderBook = require('./lib/src/kraken/order-book');
 exports.BitflyerOrderBook = require('./lib/src/bitflyer/order-book');
+exports.BitflyerCandlePopulatorApiDbCron = require('./lib/src/bitflyer/candle-populator-api-db-cron');
 exports.OkexOrderBook = require('./lib/src/okex/order-book');
