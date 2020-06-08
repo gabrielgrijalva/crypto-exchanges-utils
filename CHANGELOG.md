@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.7.0] - 2020-06-08
+### Added
+- Added bitflyer candle populator api db cron.
+
 ## [2.6.0] - 2020-05-22
 ### Added
 - Added debugging logs to candles populator.
