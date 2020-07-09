@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.8.0] - 2020-07-09
+### Added
+- Added bitmex candle populator from api to db.
+- Added bitmex candle populator from api to db in cron interval.
+
 ## [2.7.0] - 2020-06-08
 ### Added
 - Added bitflyer candle populator api db cron.
