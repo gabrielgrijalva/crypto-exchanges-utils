@@ -4,6 +4,7 @@ exports.BinanceFuturesCanPopApiDbCron = require('./lib/src/binance-futures/candl
 exports.BitfinexOrderBook = require('./lib/src/bitfinex/order-book');
 exports.BitmexOrderBook = require('./lib/src/bitmex/order-book');
 exports.BitmexCanPopApiDb = require('./lib/src/bitmex/candle-populator-api-db');
+exports.BitmexCanPopApiDbCron = require('./lib/src/bitmex/candle-populator-api-db-cron');
 exports.BitstampOrderBook = require('./lib/src/bitstamp/order-book');
 exports.CoinbaseOrderBook = require('./lib/src/coinbase/order-book');
 exports.HuobiDMOrderBook = require('./lib/src/huobi-dm/order-book');
