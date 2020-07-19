@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.9.0] - 2020-07-09
+### Added
+- Implemented ping interval to database connection in candle populator cron.
+
 ## [2.8.0] - 2020-07-09
 ### Added
 - Added bitmex candle populator from api to db.
