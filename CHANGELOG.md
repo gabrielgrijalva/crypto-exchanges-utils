@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [3.0.0] - 2020-08-02
+### Added
+- Added bitflyer renko candles populator.
+- Changed implementation for creating candles for bitflyer.
+
 ## [2.9.0] - 2020-07-09
 ### Added
 - Implemented ping interval to database connection in candle populator cron.
