@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [3.1.0] - 2020-08-07
+### Added
+- Changed creating of renko candles for bitflyer.
+
 ## [3.0.0] - 2020-08-02
 ### Added
 - Added bitflyer renko candles populator.
