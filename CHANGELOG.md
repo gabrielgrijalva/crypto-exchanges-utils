@@ -1,9 +1,13 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [3.4.0] - 2020-09-09
+### Changed
+- Corrected error in bitflyer candle populator.
+
 ## [3.3.0] - 2020-09-08
 ### Added
-- Added error handler to huobi dm swap candle populator..
+- Added error handler to huobi dm swap candle populator.
 
 ## [3.1.0] - 2020-08-07
 ### Added
