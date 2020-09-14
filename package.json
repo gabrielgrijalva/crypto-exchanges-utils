@@ -36,7 +36,7 @@
     "eslint-plugin-import": "^2.18.0"
   },
   "dependencies": {
-    "@gabrielgrijalva/crypto-exchanges": "^3.9.0",
+    "@gabrielgrijalva/crypto-exchanges": "^4.1.0",
     "cron": "^1.8.2",
     "moment": "^2.26.0",
     "mysql": "^2.18.1"
