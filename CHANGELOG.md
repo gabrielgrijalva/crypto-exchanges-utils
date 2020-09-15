@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [3.7.0] - 2020-09-15
+### Added
+- Added binance coin futures to index main export module.
+
 ## [3.6.0] - 2020-09-14
 ### Added
 - Added binance coin futures utils.
