@@ -1,6 +1,14 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [3.6.0] - 2020-09-14
+### Added
+- Added binance coin futures utils.
+
+## [3.5.0] - 2020-09-14
+### Changed
+- Updated project versions dependencies.
+
 ## [3.4.0] - 2020-09-09
 ### Changed
 - Corrected error in bitflyer candle populator.
