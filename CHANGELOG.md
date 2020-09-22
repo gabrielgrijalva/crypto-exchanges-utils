@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [3.8.0] - 2020-09-22
+### Added
+- Added binance futures database candle populator.
+- Added binance coin futures database candle populator.
+
 ## [3.7.0] - 2020-09-15
 ### Added
 - Added binance coin futures to index main export module.
