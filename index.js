@@ -1,7 +1,9 @@
 exports.BinanceOrderBook = require('./lib/src/binance/order-book');
 exports.BinanceFuturesOrderBook = require('./lib/src/binance-futures/order-book');
+exports.BinanceFuturesCanPopApiDb = require('./lib/src/binance-futures/candle-populator-api-db');
 exports.BinanceFuturesCanPopApiDbCron = require('./lib/src/binance-futures/candle-populator-api-db-cron');
 exports.BinanceCoinFuturesOrderBook = require('./lib/src/binance-coin-futures/order-book');
+exports.BinanceCoinFuturesCanPopApiDb = require('./lib/src/binance-coin-futures/candle-populator-api-db');
 exports.BinanceCoinFuturesCanPopApiDbCron = require('./lib/src/binance-coin-futures/candle-populator-api-db-cron');
 exports.BitfinexOrderBook = require('./lib/src/bitfinex/order-book');
 exports.BitmexOrderBook = require('./lib/src/bitmex/order-book');
