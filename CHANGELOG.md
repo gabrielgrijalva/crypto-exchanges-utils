@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [3.9.0] - 2020-09-22
+### Changed
+- Updated project dependencies versions.
+
 ## [3.8.0] - 2020-09-22
 ### Added
 - Added binance futures database candle populator.
