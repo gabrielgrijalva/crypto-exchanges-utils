@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [4.1.0] - 2020-10-01
+### Added
+- Added Okex populators.
+
 ## [4.0.0] - 2020-09-25
 ### Added
 - Kraken futures order book and populators.
