@@ -22,3 +22,5 @@ exports.BitflyerOrderBook = require('./lib/src/bitflyer/order-book');
 exports.BitflyerRenkoPopulatorApiDb = require('./lib/src/bitflyer/renko-populator-api-db');
 exports.BitflyerCandlePopulatorApiDbCron = require('./lib/src/bitflyer/candle-populator-api-db-cron');
 exports.OkexOrderBook = require('./lib/src/okex/order-book');
+exports.OkexCanPopApiDb = require('./lib/src/okex/candle-populator-api-db');
+exports.OkexCanPopApiDbCron = require('./lib/src/okex/candle-populator-api-db-cron');
