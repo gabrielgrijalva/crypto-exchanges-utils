@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [4.2.0] - 2020-10-02
+### Added
+- Added Bybit utils.
+
 ## [4.1.0] - 2020-10-01
 ### Added
 - Added Okex populators.
