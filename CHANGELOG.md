@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [4.5.0] - 2020-10-17
+### Added
+- Corrected okex populator.
+
 ## [4.4.0] - 2020-10-14
 ### Added
 - Correctd binance populator implementations.
