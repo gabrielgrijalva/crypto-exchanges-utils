@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [4.6.0] - 2020-12-01
+### Added
+- Implemented last timestamp update to binance-coin-futures order book.
+
 ## [4.5.0] - 2020-10-17
 ### Added
 - Corrected okex populator.
