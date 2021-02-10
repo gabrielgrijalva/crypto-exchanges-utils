@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [4.9.0] - 2021-02-10
+### Added
+- Changed order book update limit before reconnecting.
+
 ## [4.8.0] - 2021-02-02
 ### Added
 - Changed project versions dependencies.
