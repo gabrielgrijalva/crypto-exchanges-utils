@@ -1,6 +1,6 @@
 {
   "name": "@gabrielgrijalva/crypto-exchanges-utils",
-  "version": "4.9.0",
+  "version": "5.0.0",
   "description": "Common and useful utilities for cryptocurrency exchanges.",
   "main": "index.js",
   "scripts": {
@@ -39,6 +39,7 @@
     "@gabrielgrijalva/crypto-exchanges": "^6.0.0",
     "cron": "^1.8.2",
     "moment": "^2.26.0",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "ws": "^7.4.3"
   }
 }
