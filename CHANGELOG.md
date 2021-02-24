@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [5.1.0] - 2021-02-24
+- Updated project versions dependencies.
+
 ## [5.0.0] - 2021-02-12
 - Implemented websocket server for exchanges order books.
 
