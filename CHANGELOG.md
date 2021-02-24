@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [5.2.0] - 2021-02-24
+- Corrected error in order book.
+
 ## [5.1.0] - 2021-02-24
 - Updated project versions dependencies.
 
