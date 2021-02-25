@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [5.4.0] - 2021-02-25
+- Updated project dependencies versions.
+
 ## [5.3.0] - 2021-02-24
 - Updated project dependencies versions.
 
