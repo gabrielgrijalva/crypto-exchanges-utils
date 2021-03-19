@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [5.5.0] - 2021-03-19
+- Corrected error in order book wss.
+
 ## [5.4.0] - 2021-02-25
 - Updated project dependencies versions.
 
