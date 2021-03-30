@@ -10,6 +10,7 @@ exports.BitmexOrderBook = require('./lib/src/bitmex/order-book');
 exports.BitmexCanPopApiDb = require('./lib/src/bitmex/candle-populator-api-db');
 exports.BitmexCanPopApiDbCron = require('./lib/src/bitmex/candle-populator-api-db-cron');
 exports.BitstampOrderBook = require('./lib/src/bitstamp/order-book');
+exports.BitstampCanPopApiDbCron = require('./lib/src/bitstamp/candle-populator-api-db-cron');
 exports.BybitOrderBook = require('./lib/src/bybit/order-book');
 exports.BybitCanPopApiDb = require('./lib/src/bybit/candle-populator-api-db');
 exports.BybitCanPopApiDbCron = require('./lib/src/bybit/candle-populator-api-db-cron');
