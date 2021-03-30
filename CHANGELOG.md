@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [5.6.0] - 2021-03-30
+- Implemented bitstamp cron populator.
+
 ## [5.5.0] - 2021-03-19
 - Corrected error in order book wss.
 
