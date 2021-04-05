@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [5.7.0] - 2021-04-05
+- Corrected error in bitstamp populator cron.
+
 ## [5.6.0] - 2021-03-30
 - Implemented bitstamp cron populator.
 
