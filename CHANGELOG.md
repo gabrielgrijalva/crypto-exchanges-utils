@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [6.1.0] - 2021-05-10
+- Corrected error in kraken-futures.
+
 ## [6.0.0] - 2021-05-10
 - Implemented corrections in candles cron populator for kraken-futres.
 
