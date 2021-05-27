@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [6.2.0] - 2021-05-27
+- Changed project versions dependencies.
+
 ## [6.1.0] - 2021-05-10
 - Corrected error in kraken-futures.
 
