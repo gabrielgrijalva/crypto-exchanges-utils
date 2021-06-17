@@ -15,6 +15,7 @@ exports.BybitOrderBook = require('./lib/src/bybit/order-book');
 exports.BybitCanPopApiDb = require('./lib/src/bybit/candle-populator-api-db');
 exports.BybitCanPopApiDbCron = require('./lib/src/bybit/candle-populator-api-db-cron');
 exports.CoinbaseOrderBook = require('./lib/src/coinbase/order-book');
+exports.DeribitOrderBook = require('./lib/src/deribit/order-book');
 exports.HuobiDMOrderBook = require('./lib/src/huobi-dm/order-book');
 exports.HuobiDMSwapOrderBook = require('./lib/src/huobi-dm-swap/order-book');
 exports.HuobiDMSwapCanPopApiDb = require('./lib/src/huobi-dm-swap/candle-populator-api-db');

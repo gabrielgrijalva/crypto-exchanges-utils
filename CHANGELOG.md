@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [6.3.0] - 2021-06-17
+- Implemented deribit orderbook.
+
 ## [6.2.0] - 2021-05-27
 - Changed project versions dependencies.
 
