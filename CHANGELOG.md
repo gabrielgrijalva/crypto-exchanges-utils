@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [6.5.0] - 2021-07-08
+- Updated dependencies project versions.
+- Corrected error in kraken candle populator.
+
 ## [6.4.0] - 2021-07-07
 - Implemented deribit cron populators.
 
