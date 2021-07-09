@@ -31,3 +31,5 @@ exports.BitflyerCandlePopulatorApiDbCron = require('./lib/src/bitflyer/candle-po
 exports.OkexOrderBook = require('./lib/src/okex/order-book');
 exports.OkexCanPopApiDb = require('./lib/src/okex/candle-populator-api-db');
 exports.OkexCanPopApiDbCron = require('./lib/src/okex/candle-populator-api-db-cron');
+exports.OneForgeCanMaPopDbCron = require('./lib/src/one-forge/candle-ma-populator-db-cron');
+exports.OneForgeCanPopApiDbCron = require('./lib/src/one-forge/candle-populator-api-db-cron');

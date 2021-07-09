@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [6.6.0] - 2021-07-09
+- Implemented one forge forex populators.
+
 ## [6.5.0] - 2021-07-08
 - Updated dependencies project versions.
 - Corrected error in kraken candle populator.
