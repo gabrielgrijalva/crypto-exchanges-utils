@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [6.7.0] - 2021-07-13
+- Corrected errors in bitmex and kraken populators.
+
 ## [6.6.0] - 2021-07-09
 - Implemented one forge forex populators.
 
