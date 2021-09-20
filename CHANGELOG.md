@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [6.8.0] - 2021-09-20
+- Extended frozen order book checker.
+
 ## [6.7.0] - 2021-07-13
 - Corrected errors in bitmex and kraken populators.
 
