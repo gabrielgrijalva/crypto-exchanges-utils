@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [6.9.0] - 2021-10-11
+- Added bitmex and kraken order book price filters.
+
 ## [6.8.0] - 2021-09-20
 - Extended frozen order book checker.
 
