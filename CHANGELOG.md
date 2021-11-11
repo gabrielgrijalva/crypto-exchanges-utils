@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [7.0.0] - 2021-11-11
+- Added bitmex error handler in candles populator.
+
 ## [6.9.0] - 2021-10-11
 - Added bitmex and kraken order book price filters.
 
