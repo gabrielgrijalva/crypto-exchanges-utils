@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [7.1.0] - 2021-11-18
+- Implemented phemex order book.
+
 ## [7.0.0] - 2021-11-11
 - Added bitmex error handler in candles populator.
 
