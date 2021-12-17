@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [7.5.0] - 2021-12-17
+- Corrected error in okex-futures-v5 order-book.
+
 ## [7.4.0] - 2021-12-17
 - Implemented okex-futures-v5 order-book and populator.
 
