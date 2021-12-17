@@ -34,3 +34,4 @@ exports.OkexCanPopApiDbCron = require('./lib/src/okex/candle-populator-api-db-cr
 exports.OneForgeCanMaPopDbCron = require('./lib/src/one-forge/candle-ma-populator-db-cron');
 exports.OneForgeCanPopApiDbCron = require('./lib/src/one-forge/candle-populator-api-db-cron');
 exports.PhemexOrderBook = require('./lib/src/phemex/order-book');
+exports.OkexFuturesV5OrderBook = require('./lib/src/okex-futures-v5/order-book');
