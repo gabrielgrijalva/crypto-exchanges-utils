@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [7.4.0] - 2021-12-17
+- Implemented okex-futures-v5 order-book and populator.
+
 ## [7.3.0] - 2021-11-19
 - Changed project versions dependencies.
 
