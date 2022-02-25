@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [7.8.0] - 2022-02-25
+- Added debugging logs to okex-futures-v5.
+
 ## [7.7.0] - 2022-02-07
 - Corrected error in okex-futures-v5 on websocket disconnection.
 
