@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [7.9.0] - 2022-03-02
+- Updated project version of dependencies.
+
 ## [7.8.0] - 2022-02-25
 - Added debugging logs to okex-futures-v5.
 
