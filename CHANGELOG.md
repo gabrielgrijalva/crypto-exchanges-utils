@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [8.1.0] - 2022-05-04
+- Changed channel of order books in okex-futures-v5.
+
 ## [8.0.0] - 2022-03-02
 - Added debugging logs.
 
